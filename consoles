@@ -1,0 +1,1769 @@
+{
+  "version" : "1",
+  "networkId" : "384938",
+  "parameters" : [
+    {
+      "name" : "desiredBitrate",
+      "category" : "profile",
+      "value" : "3000"
+    },
+    {
+      "name" : "fwImpressionMap",
+      "category" : "profile",
+      "value" : "i:thirdQuartile:53"
+    },
+    {
+      "name" : "fwImpressionMap",
+      "category" : "profile",
+      "value" : "i:defaultImpression:47"
+    },
+    {
+      "name" : "enableServerTranslation",
+      "category" : "profile",
+      "value" : "1"
+    }
+  ],
+  "visitor" : {
+    "customId" : "1a238c6c7a84c11bf57ae49998634155e9464fd8",
+    "httpHeaders" : [],
+    "state" : []
+  },
+  "errors" : {
+    "errors" : [
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "0.0.0.342735997.0.1698166714",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "0.0.0.342735997.1.1970650030",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "0.0.0.342735997.2.1230343479",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "0.0.0.342735997.3.361954092",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "cue_point-622054154.0.1959450293",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "cue_point-622054154.1.1429504583",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "cue_point-622054154.2.679993085",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "cue_point-622054155.0.698878465",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "cue_point-622054155.1.729123964",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "cue_point-622054155.2.1862524375",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "cue_point-622054156.0.1378201922",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "cue_point-622054156.1.1308782194",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      },
+      {
+        "id" : "21",
+        "severity" : "WARN",
+        "name" : "MULTIPLE_SPONSORED_PLACEMENTS",
+        "message" : "cue_point-622054156.2.535376474",
+        "context" : "27765954,27879144,27964195,27964395,27999947,"
+      }
+    ]
+  },
+  "eventCallbacks" : {
+    "eventCallbacks" : [
+      {
+        "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005",
+        "type" : "GENERIC",
+        "use" : "BASE",
+        "showBrowser" : false,
+        "trackingUrls" : []
+      }
+    ]
+  },
+  "ads" : {
+    "ads" : [
+      {
+        "adId" : "27913980",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45225",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3596744",
+            "baseUnit" : "video",
+            "duration" : "30",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "10054894",
+                "creativeApi" : "None",
+                "preference" : "0",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "9974753",
+                  "name" : "6186_sky-hls.m3u8",
+                  "url" : "http:\/\/skyads-stage.ott.skymedia.co.uk\/2018\/04\/6186\/sky-hls\/6186_sky-hls.m3u8",
+                  "contentType" : "application\/x-mpegurl",
+                  "mimeType" : "application\/x-mpegURL",
+                  "deliveryMethod" : "streaming"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      },
+      {
+        "adId" : "27913974",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45225",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3681190",
+            "baseUnit" : "video",
+            "duration" : "30",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "10444557",
+                "creativeApi" : "None",
+                "width" : "768",
+                "height" : "432",
+                "preference" : "0",
+                "bitrate" : "1116",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "10363754",
+                  "name" : "6696_sky-mp4-1.mp4",
+                  "url" : "http:\/\/skyads-stage.ott.skymedia.co.uk\/2018\/06\/6696\/sky-mp4\/6696_sky-mp4-1.mp4",
+                  "contentType" : "video\/mp4-h264",
+                  "mimeType" : "video\/mp4",
+                  "bytes" : "4288198",
+                  "deliveryMethod" : "progressive"
+                },
+                "otherAssets" : []
+              },
+              {
+                "creativeRenditionId" : "10444558",
+                "creativeApi" : "None",
+                "preference" : "0",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "10363755",
+                  "name" : "6696_sky-hls.m3u8",
+                  "url" : "http:\/\/skyads-stage.ott.skymedia.co.uk\/2018\/06\/6696\/sky-hls\/6696_sky-hls.m3u8",
+                  "contentType" : "application\/x-mpegurl",
+                  "mimeType" : "application\/x-mpegURL",
+                  "deliveryMethod" : "streaming"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      },
+      {
+        "adId" : "27999952",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45226",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3423446",
+            "baseUnit" : "video",
+            "duration" : "30",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "9593222",
+                "creativeApi" : "None",
+                "preference" : "0",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "9513445",
+                  "name" : "5932_sky-hls.m3u8",
+                  "url" : "http:\/\/skyads-stage.ott.skymedia.co.uk\/2018\/03\/5932\/sky-hls\/5932_sky-hls.m3u8",
+                  "contentType" : "application\/x-mpegurl",
+                  "mimeType" : "application\/x-mpegURL",
+                  "deliveryMethod" : "streaming"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      },
+      {
+        "adId" : "27964412",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45224",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3981271",
+            "baseUnit" : "video",
+            "duration" : "15.000",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "11792705",
+                "creativeApi" : "None",
+                "width" : "1024",
+                "height" : "576",
+                "preference" : "0",
+                "bitrate" : "1727",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "11707995",
+                  "name" : "clip-00apsjmz",
+                  "url" : "http:\/\/proxy.video.sky.com\/video\/clip-00apsjmz",
+                  "contentType" : "video\/mp4-h264",
+                  "mimeType" : "video\/mp4",
+                  "bytes" : "3316564",
+                  "deliveryMethod" : "progressive"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      },
+      {
+        "adId" : "27964414",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45221",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3981277",
+            "baseUnit" : "video",
+            "duration" : "5.040",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "11792765",
+                "creativeApi" : "None",
+                "width" : "1024",
+                "height" : "576",
+                "preference" : "0",
+                "bitrate" : "2435",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "11708059",
+                  "name" : "clip-00n6gg82",
+                  "url" : "http:\/\/proxy.video.sky.com\/video\/clip-00n6gg82",
+                  "contentType" : "video\/mp4-h264",
+                  "mimeType" : "video\/mp4",
+                  "bytes" : "1559024",
+                  "deliveryMethod" : "progressive"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      },
+      {
+        "adId" : "27913981",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45222",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3596744",
+            "baseUnit" : "video",
+            "duration" : "30",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "10054894",
+                "creativeApi" : "None",
+                "preference" : "0",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "9974753",
+                  "name" : "6186_sky-hls.m3u8",
+                  "url" : "http:\/\/skyads-stage.ott.skymedia.co.uk\/2018\/04\/6186\/sky-hls\/6186_sky-hls.m3u8",
+                  "contentType" : "application\/x-mpegurl",
+                  "mimeType" : "application\/x-mpegURL",
+                  "deliveryMethod" : "streaming"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      },
+      {
+        "adId" : "27913975",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45222",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3681190",
+            "baseUnit" : "video",
+            "duration" : "30",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "10444557",
+                "creativeApi" : "None",
+                "width" : "768",
+                "height" : "432",
+                "preference" : "0",
+                "bitrate" : "1116",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "10363754",
+                  "name" : "6696_sky-mp4-1.mp4",
+                  "url" : "http:\/\/skyads-stage.ott.skymedia.co.uk\/2018\/06\/6696\/sky-mp4\/6696_sky-mp4-1.mp4",
+                  "contentType" : "video\/mp4-h264",
+                  "mimeType" : "video\/mp4",
+                  "bytes" : "4288198",
+                  "deliveryMethod" : "progressive"
+                },
+                "otherAssets" : []
+              },
+              {
+                "creativeRenditionId" : "10444558",
+                "creativeApi" : "None",
+                "preference" : "0",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "10363755",
+                  "name" : "6696_sky-hls.m3u8",
+                  "url" : "http:\/\/skyads-stage.ott.skymedia.co.uk\/2018\/06\/6696\/sky-hls\/6696_sky-hls.m3u8",
+                  "contentType" : "application\/x-mpegurl",
+                  "mimeType" : "application\/x-mpegURL",
+                  "deliveryMethod" : "streaming"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      },
+      {
+        "adId" : "27964413",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45223",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3981274",
+            "baseUnit" : "video",
+            "duration" : "5.000",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "11792756",
+                "creativeApi" : "None",
+                "width" : "1024",
+                "height" : "576",
+                "preference" : "0",
+                "bitrate" : "1912",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "11708046",
+                  "name" : "clip-00czzzhc",
+                  "url" : "http:\/\/proxy.video.sky.com\/video\/clip-00czzzhc",
+                  "contentType" : "video\/mp4-h264",
+                  "mimeType" : "video\/mp4",
+                  "bytes" : "1224157",
+                  "deliveryMethod" : "progressive"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      },
+      {
+        "adId" : "27913978",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45222",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3782097",
+            "baseUnit" : "video",
+            "duration" : "20",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "10936896",
+                "creativeApi" : "None",
+                "preference" : "0",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "10855069",
+                  "name" : "6621_sky-hls.m3u8",
+                  "url" : "http:\/\/skyads-stage.ott.skymedia.co.uk\/2018\/05\/6621\/sky-hls\/6621_sky-hls.m3u8",
+                  "contentType" : "application\/x-mpegurl",
+                  "mimeType" : "application\/x-mpegURL",
+                  "deliveryMethod" : "streaming"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      },
+      {
+        "adId" : "27913984",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45222",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3897748",
+            "baseUnit" : "video",
+            "duration" : "20.000",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "11430473",
+                "creativeApi" : "None",
+                "preference" : "0",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "11346927",
+                  "name" : "7436_sky-hls.m3u8",
+                  "url" : "http:\/\/skyads-stage.ott.skymedia.co.uk\/2018\/09\/7436\/sky-hls\/7436_sky-hls.m3u8",
+                  "contentType" : "application\/x-mpegurl",
+                  "mimeType" : "application\/x-mpegURL",
+                  "deliveryMethod" : "streaming"
+                },
+                "otherAssets" : []
+              },
+              {
+                "creativeRenditionId" : "11595117",
+                "creativeApi" : "None",
+                "width" : "768",
+                "height" : "432",
+                "preference" : "0",
+                "bitrate" : "1109",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "11511019",
+                  "name" : "7436_sky-mp4-1.mp4",
+                  "url" : "http:\/\/skyads-stage.ott.skymedia.co.uk\/2018\/09\/7436\/sky-mp4\/7436_sky-mp4-1.mp4",
+                  "contentType" : "video\/mp4-h264",
+                  "mimeType" : "video\/mp4",
+                  "bytes" : "2839081",
+                  "deliveryMethod" : "progressive"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      },
+      {
+        "adId" : "27964391",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45222",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3980525",
+            "baseUnit" : "video",
+            "duration" : "30.040",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "11791314",
+                "creativeApi" : "None",
+                "width" : "480",
+                "height" : "270",
+                "preference" : "0",
+                "bitrate" : "393",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "11706605",
+                  "name" : "118277-270p_320K_H264.mp4",
+                  "url" : "https:\/\/stage.static.video.sky.com\/skymedia\/2018\/04\/118277\/118277-270p_320K_H264.mp4",
+                  "contentType" : "video\/mp4-h264",
+                  "mimeType" : "video\/mp4",
+                  "bytes" : "1511877",
+                  "deliveryMethod" : "progressive"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      },
+      {
+        "adId" : "27766823",
+        "noPreload" : false,
+        "noLoad" : false,
+        "adUnit" : "45222",
+        "isWrapper" : false,
+        "required" : false,
+        "creatives" : [
+          {
+            "creativeId" : "3954611",
+            "baseUnit" : "video",
+            "duration" : "20.000",
+            "creativeRenditions" : [
+              {
+                "creativeRenditionId" : "11682092",
+                "creativeApi" : "None",
+                "width" : "768",
+                "height" : "432",
+                "preference" : "0",
+                "bitrate" : "1113",
+                "parameters" : [],
+                "asset" : {
+                  "id" : "11597741",
+                  "name" : "7315_sky-mp4-1.mp4",
+                  "url" : "http:\/\/skyads-stage.ott.skymedia.co.uk\/2018\/08\/7315\/sky-mp4\/7315_sky-mp4-1.mp4",
+                  "contentType" : "video\/mp4-h264",
+                  "mimeType" : "video\/mp4",
+                  "bytes" : "2851314",
+                  "deliveryMethod" : "progressive"
+                },
+                "otherAssets" : []
+              }
+            ],
+            "parameters" : []
+          }
+        ]
+      }
+    ]
+  },
+  "siteSection" : {
+    "customId" : "sitesection:skygo:xbox:devices",
+    "videoPlayer" : {
+      "videoAsset" : {
+        "eventCallbacks" : [
+          {
+            "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&cn=videoView&et=i&uxnw=&uxss=&uxct=&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8",
+            "name" : "videoView",
+            "type" : "IMPRESSION",
+            "use" : "OVERRIDE",
+            "showBrowser" : false,
+            "trackingUrls" : []
+          }
+        ],
+        "customId" : "6d856e259def1610VgnVCM1000000b43150a____",
+        "adSlots" : [
+          {
+            "eventCallbacks" : [
+              {
+                "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&cn=slotImpression&et=i&tpos=1079&init=1&slid=5,6,7,8",
+                "name" : "slotImpression",
+                "type" : "IMPRESSION",
+                "use" : "OVERRIDE",
+                "showBrowser" : false,
+                "trackingUrls" : []
+              }
+            ],
+            "customId" : "cue_point-622054154",
+            "selectedAds" : [
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=2&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=2&auid=&cn=defaultImpression&et=i&_cc=27964414,11792765,,32357.,1538660715,1&tpos=1079&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=2&auid=&cn=defaultClick&et=c&_cc=&tpos=1079&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=2&auid=&cn=complete&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=2&auid=&cn=firstQuartile&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=2&auid=&cn=midPoint&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=2&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27964414",
+                "creativeId" : "3981277",
+                "replicaId" : "2",
+                "networkId" : "380990",
+                "creativeRenditionId" : "11792765",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913981&reid=10054894&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913981&reid=10054894&arid=0&auid=&cn=defaultImpression&et=i&_cc=27913981,10054894,,32357.,1538660715,1&tpos=1079&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913981&reid=10054894&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=1079&cr=http%3A\/\/www.paypal.co.uk",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : true,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913981&reid=10054894&arid=0&auid=&cn=complete&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913981&reid=10054894&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913981&reid=10054894&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913981&reid=10054894&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27913981",
+                "creativeId" : "3596744",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "10054894",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913975&reid=10444557&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913975&reid=10444557&arid=0&auid=&cn=defaultImpression&et=i&_cc=27913975,10444557,,32357.,1538660715,1&tpos=1079&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913975&reid=10444557&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=1079&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913975&reid=10444557&arid=0&auid=&cn=complete&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913975&reid=10444557&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913975&reid=10444557&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913975&reid=10444557&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27913975",
+                "creativeId" : "3681190",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "10444557",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=2&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=2&auid=&cn=defaultImpression&et=i&_cc=27964413,11792756,,32357.,1538660715,1&tpos=1079&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=2&auid=&cn=defaultClick&et=c&_cc=&tpos=1079&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=2&auid=&cn=complete&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=2&auid=&cn=firstQuartile&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=2&auid=&cn=midPoint&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=2&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1079&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27964413",
+                "creativeId" : "3981274",
+                "replicaId" : "2",
+                "networkId" : "380990",
+                "creativeRenditionId" : "11792756",
+                "companionAds" : [],
+                "fallbackAds" : []
+              }
+            ],
+            "timePosition" : "1079",
+            "timePositionClass" : "midroll",
+            "adUnit" : "Standard Mid",
+            "source" : "generated"
+          },
+          {
+            "eventCallbacks" : [
+              {
+                "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&cn=slotImpression&et=i&tpos=1453&init=1&slid=9,10,11,12",
+                "name" : "slotImpression",
+                "type" : "IMPRESSION",
+                "use" : "OVERRIDE",
+                "showBrowser" : false,
+                "trackingUrls" : []
+              }
+            ],
+            "customId" : "cue_point-622054155",
+            "selectedAds" : [
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=0&auid=&cn=defaultImpression&et=i&_cc=27964414,11792765,,32357.,1538660715,1&tpos=1453&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=1453&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=0&auid=&cn=complete&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27964414",
+                "creativeId" : "3981277",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "11792765",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913978&reid=10936896&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913978&reid=10936896&arid=0&auid=&cn=defaultImpression&et=i&_cc=27913978,10936896,,32357.,1538660715,1&tpos=1453&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913978&reid=10936896&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=1453&cr=http%3A\/\/www.facebook.co.uk",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : true,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913978&reid=10936896&arid=0&auid=&cn=complete&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913978&reid=10936896&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913978&reid=10936896&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913978&reid=10936896&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27913978",
+                "creativeId" : "3782097",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "10936896",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913984&reid=11430473&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913984&reid=11430473&arid=0&auid=&cn=defaultImpression&et=i&_cc=27913984,11430473,,32357.,1538660715,1&tpos=1453&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&asid=152000641&ssid=1583462&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913984&reid=11430473&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=1453&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913984&reid=11430473&arid=0&auid=&cn=complete&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913984&reid=11430473&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913984&reid=11430473&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913984&reid=11430473&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27913984",
+                "creativeId" : "3897748",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "11430473",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=0&auid=&cn=defaultImpression&et=i&_cc=27964413,11792756,,32357.,1538660715,1&tpos=1453&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=1453&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=0&auid=&cn=complete&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1453&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27964413",
+                "creativeId" : "3981274",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "11792756",
+                "companionAds" : [],
+                "fallbackAds" : []
+              }
+            ],
+            "timePosition" : "1453",
+            "timePositionClass" : "midroll",
+            "adUnit" : "Standard Mid",
+            "source" : "generated"
+          },
+          {
+            "eventCallbacks" : [
+              {
+                "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&cn=slotImpression&et=i&tpos=2029&init=1&slid=13,14,15,16",
+                "name" : "slotImpression",
+                "type" : "IMPRESSION",
+                "use" : "OVERRIDE",
+                "showBrowser" : false,
+                "trackingUrls" : []
+              }
+            ],
+            "customId" : "cue_point-622054156",
+            "selectedAds" : [
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=1&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=1&auid=&cn=defaultImpression&et=i&_cc=27964414,11792765,,32357.,1538660715,1&tpos=2029&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=1&auid=&cn=defaultClick&et=c&_cc=&tpos=2029&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=1&auid=&cn=complete&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=1&auid=&cn=firstQuartile&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=1&auid=&cn=midPoint&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964414&reid=11792765&arid=1&auid=&cn=thirdQuartile&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27964414",
+                "creativeId" : "3981277",
+                "replicaId" : "1",
+                "networkId" : "380990",
+                "creativeRenditionId" : "11792765",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964391&reid=11791314&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964391&reid=11791314&arid=0&auid=&cn=defaultImpression&et=i&_cc=27964391,11791314,,32357.,1538660715,1&tpos=2029&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964391&reid=11791314&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=2029&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964391&reid=11791314&arid=0&auid=&cn=complete&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964391&reid=11791314&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964391&reid=11791314&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964391&reid=11791314&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27964391",
+                "creativeId" : "3980525",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "11791314",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27766823&reid=11682092&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27766823&reid=11682092&arid=0&auid=&cn=defaultImpression&et=i&_cc=27766823,11682092,,32357.,1538660715,1&tpos=2029&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27766823&reid=11682092&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=2029&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27766823&reid=11682092&arid=0&auid=&cn=complete&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27766823&reid=11682092&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27766823&reid=11682092&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27766823&reid=11682092&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27766823",
+                "creativeId" : "3954611",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "11682092",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=1&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=1&auid=&cn=defaultImpression&et=i&_cc=27964413,11792756,,32357.,1538660715,1&tpos=2029&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=1&auid=&cn=defaultClick&et=c&_cc=&tpos=2029&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=1&auid=&cn=complete&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=1&auid=&cn=firstQuartile&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=1&auid=&cn=midPoint&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964413&reid=11792756&arid=1&auid=&cn=thirdQuartile&et=i&_cc=&tpos=2029&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27964413",
+                "creativeId" : "3981274",
+                "replicaId" : "1",
+                "networkId" : "380990",
+                "creativeRenditionId" : "11792756",
+                "companionAds" : [],
+                "fallbackAds" : []
+              }
+            ],
+            "timePosition" : "2029",
+            "timePositionClass" : "midroll",
+            "adUnit" : "Standard Mid",
+            "source" : "generated"
+          },
+          {
+            "eventCallbacks" : [
+              {
+                "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&cn=slotImpression&et=i&tpos=0&init=1&slid=0,1,2,3,4",
+                "name" : "slotImpression",
+                "type" : "IMPRESSION",
+                "use" : "OVERRIDE",
+                "showBrowser" : false,
+                "trackingUrls" : []
+              }
+            ],
+            "customId" : "0.0.0.342735997",
+            "selectedAds" : [
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913980&reid=10054894&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913980&reid=10054894&arid=0&auid=&cn=defaultImpression&et=i&_cc=27913980,10054894,,32357.,1538660715,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913980&reid=10054894&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=http%3A\/\/www.google.co.uk",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : true,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913980&reid=10054894&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913980&reid=10054894&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913980&reid=10054894&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913980&reid=10054894&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27913980",
+                "creativeId" : "3596744",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "10054894",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913974&reid=10444557&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913974&reid=10444557&arid=0&auid=&cn=defaultImpression&et=i&_cc=27913974,10444557,,32357.,1538660715,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913974&reid=10444557&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913974&reid=10444557&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913974&reid=10444557&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913974&reid=10444557&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27913974&reid=10444557&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27913974",
+                "creativeId" : "3681190",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "10444557",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27999952&reid=9593222&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27999952&reid=9593222&arid=0&auid=&cn=defaultImpression&et=i&_cc=27999952,9593222,,32357.,1538660715,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=https%3A\/\/ad.doubleclick.net\/ddm\/trackclk\/N2121.sky.carat.uk\/B10494474.140072903%3Bdc_trk_aid%3D312315339%3Bdc_trk_cid%3D66716768%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27999952&reid=9593222&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=https%3A\/\/ad.doubleclick.net\/ddm\/clk\/312635218%3B140433544%3Bu",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : true,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27999952&reid=9593222&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27999952&reid=9593222&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27999952&reid=9593222&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27999952&reid=9593222&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27999952",
+                "creativeId" : "3423446",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "9593222",
+                "companionAds" : [],
+                "fallbackAds" : []
+              },
+              {
+                "eventCallbacks" : [
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964412&reid=11792705&arid=0&iw=&uxnw=&uxss=&uxct=",
+                    "type" : "GENERIC",
+                    "use" : "BASE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964412&reid=11792705&arid=0&auid=&cn=defaultImpression&et=i&_cc=27964412,11792705,,32357.,1538660715,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=7&init=1&vcid2=384938%3A1a238c6c7a84c11bf57ae49998634155e9464fd8&kv=_fw_impression_map%3D3188&cr=",
+                    "name" : "defaultImpression",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964412&reid=11792705&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=",
+                    "name" : "defaultClick",
+                    "type" : "CLICK",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964412&reid=11792705&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "complete",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964412&reid=11792705&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "firstQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964412&reid=11792705&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7",
+                    "name" : "midPoint",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  },
+                  {
+                    "url" : "https:\/\/5dfaa.v.fwmrm.net\/ad\/l\/1?s=d046&n=384938%3B380990&t=1538660715024796005&f=&r=380990&adid=27964412&reid=11792705&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=7&kv=_fw_impression_map%3D3188",
+                    "name" : "thirdQuartile",
+                    "type" : "IMPRESSION",
+                    "use" : "OVERRIDE",
+                    "showBrowser" : false,
+                    "trackingUrls" : []
+                  }
+                ],
+                "adId" : "27964412",
+                "creativeId" : "3981271",
+                "replicaId" : "0",
+                "networkId" : "380990",
+                "creativeRenditionId" : "11792705",
+                "companionAds" : [],
+                "fallbackAds" : []
+              }
+            ],
+            "timePosition" : "0",
+            "timePositionClass" : "preroll",
+            "adUnit" : "Standard Pre",
+            "source" : "generated",
+            "maxDuration" : "135"
+          }
+        ]
+      },
+      "adSlots" : []
+    },
+    "adSlots" : []
+  }
+}
