@@ -1,0 +1,32 @@
+<vast version="3.0">
+    <ad id="20011">
+        <wrapper>
+            <adsystem version="4.0">
+                markAdServer
+            </adsystem>
+            <vastadtaguri>
+                <![CDATA[https://raw.githubusercontent.com/InteractiveAdvertisingBureau/VAST_Samples/master/VAST%203.0%20Samples/Inline_Companion_Tag-test.xml]]>
+            </vastadtaguri>
+            <error>
+                http://example.com/error
+            </error>
+            <impression>
+                http://example.com/track/impression
+            </impression>
+            <creatives>
+                <creative id="5480" sequence="1">
+                    <companionads>
+                        <companion assetheight="200" assetwidth="250" expandedheight="250" expandedwidth="350" height="150" id="1232" width="100">
+                            <staticresource creativetype="image/png">
+                                <![CDATA[https://www.iab.com/wp-content/uploads/2014/09/iab-tech-lab-6-644x290.png]]>
+                            </staticresource>
+                            <companionclickthrough>
+                                <![CDATA[https://iabtechlab.com]]>
+                            </companionclickthrough>
+                        </companion>
+                    </companionads>
+                </creative>
+            </creatives>
+        </wrapper>
+    </ad>
+</vast>
