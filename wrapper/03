@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <vast version="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nonamespaceschemalocation="vast.xsd">
     <ad id="33381192.140346419897088" sequence="1">
         <wrapper>
@@ -5,7 +6,7 @@
                 MARK TEST WRAPPER THREE
             </adsystem>
             <vastadtaguri>
-                <![CDATA[https://raw.githubusercontent.com/marcstyles/sky/master/wrapper/04.xml]]>
+                <![CDATA[https://raw.githubusercontent.com/marcstyles/sky/master/wrapper/04]]>
             </vastadtaguri>
             <error>
                 <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10138&trigid=53&et=e&cn=%5BERRORCODE%5D]]>
