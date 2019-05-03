@@ -1,0 +1,82 @@
+<vast version="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nonamespaceschemalocation="vast.xsd">
+    <ad id="33381192.140346419897088" sequence="1">
+        <wrapper>
+            <adsystem>
+                MARK TEST WRAPPER THREE
+            </adsystem>
+            <vastadtaguri>
+                <![CDATA[https://raw.githubusercontent.com/marcstyles/sky/master/wrapper/04.xml]]>
+            </vastadtaguri>
+            <error>
+                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10138&trigid=53&et=e&cn=%5BERRORCODE%5D]]>
+            </error>
+            <impression>
+                <![CDATA[https://marktest.com/wrapper_three_impression]]>
+            </impression>
+            <creatives>
+                <creative adid="33381192" id="4837375">
+                    <linear>
+                        <trackingevents>
+                            <tracking event="firstQuartile">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=360&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=277]]>
+                            </tracking>
+                            <tracking event="firstQuartile">
+                                <![CDATA[https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1522353201&de=1522353201&d=782507%3A30052061%3A33381190%3A4837375&bo=g611388&bd=1748384&zMoatSDH=30&zMoatDevice=Channel5%20website&ott=1&cs=0]]>
+                            </tracking>
+                            <tracking event="midpoint">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=360&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=278]]>
+                            </tracking>
+                            <tracking event="midpoint">
+                                <![CDATA[https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1522353201&de=1522353201&d=782507%3A30052061%3A33381190%3A4837375&bo=g611388&bd=1748384&zMoatSDH=30&zMoatDevice=Channel5%20website&ott=1&cs=0]]>
+                            </tracking>
+                            <tracking event="thirdQuartile">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=360&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=279&absid=10138&trigid=53&kv=_fw_impression_map%3D4272]]>
+                            </tracking>
+                            <tracking event="thirdQuartile">
+                                <![CDATA[https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1522353201&de=1522353201&d=782507%3A30052061%3A33381190%3A4837375&bo=g611388&bd=1748384&zMoatSDH=30&zMoatDevice=Channel5%20website&ott=1&cs=0]]>
+                            </tracking>
+                            <tracking event="complete">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=complete&et=i&_cc=&tpos=360&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=280]]>
+                            </tracking>
+                            <tracking event="complete">
+                                <![CDATA[https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=1522353201&de=1522353201&d=782507%3A30052061%3A33381190%3A4837375&bo=g611388&bd=1748384&zMoatSDH=30&zMoatDevice=Channel5%20website&ott=1&cs=0]]>
+                            </tracking>
+                            <tracking event="mute">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=360]]>
+                            </tracking>
+                            <tracking event="unmute">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=360]]>
+                            </tracking>
+                            <tracking event="collapse">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=360]]>
+                            </tracking>
+                            <tracking event="expand">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=360]]>
+                            </tracking>
+                            <tracking event="pause">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=360]]>
+                            </tracking>
+                            <tracking event="resume">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=360]]>
+                            </tracking>
+                            <tracking event="rewind">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=360]]>
+                            </tracking>
+                            <tracking event="acceptInvitation">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=360]]>
+                            </tracking>
+                            <tracking event="close">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=_close&et=s&_cc=&tpos=360]]>
+                            </tracking>
+                        </trackingevents>
+                        <videoclicks>
+                            <clicktracking id="FWc_33381192.0">
+                                <![CDATA[https://2356e.v.fwmrm.net/ad/l/1?s=d018&n=380990%3B380990%3B384938&t=1556886634726854011&f=&r=380990&adid=33381192&reid=16083238&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=360&cr=]]>
+                            </clicktracking>
+                        </videoclicks>
+                    </linear>
+                </creative>
+            </creatives>
+        </wrapper>
+    </ad>
+</vast>
